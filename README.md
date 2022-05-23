@@ -31,6 +31,10 @@ npm run start
 * O pipe async do angular e como ele simplifica a manipulação de um observable.
 * O gráfico de marbles e como ele nos ajuda a entender os operadores do RxJs.
 
+## Operadores de Fluxo
 
+* Como controlar o fluxo de informações utilizando o operador filter.
+* Como criar uma espera dos comandos de eventos utilizando o operador debounceTime
+* Como evitar duplicação de termos da busca ao servidor utilizando o operador distinctUntilChanged
 
 
