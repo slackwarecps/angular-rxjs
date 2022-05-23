@@ -32,5 +32,9 @@ npm run start
 * O gráfico de marbles e como ele nos ajuda a entender os operadores do RxJs.
 
 
+## Operadores de Fluxo
 
+* Como escutar os eventos de digitação de um formulário angular utilizando RxJS
+* Como alternar o fluxo da digitação para o fluxo da requisição ao servidor utilizando o operador switchMap
+* Como unir fluxos de informações utilizando a função merge.
 
